@@ -8,7 +8,7 @@
 
 ## 🌟 Project Overview
 
-The \*\*Student Event Management System\*\* is a web-based application designed to display important college events in an organized and attractive way.
+The **Student Event Management System** is a web-based application designed to display important college events in an organized and attractive way.
 
 Students can easily view:
 
@@ -24,7 +24,7 @@ Students can easily view:
 
 
 
-The project also demonstrates the use of \*\*Git and GitHub for version control, feature development, branching, merging, and deployment\*\*.
+The project also demonstrates the use of **Git and GitHub for version control, feature development, branching, merging, and deployment**.
 
 
 
