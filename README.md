@@ -1,4 +1,4 @@
-\# 🎓 Student Event Management System
+# 🎓 Student Event Management System
 
 
 
